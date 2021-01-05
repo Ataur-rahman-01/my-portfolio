@@ -1,0 +1,44 @@
+body {
+  background-color: black;
+  color: #f2f2f2;
+}
+.topnav p {
+  float: left;
+  padding: 14px 16px;
+  font-size: 17px;
+}
+.topnav {
+  position: absolute;
+  right: 100px;
+  width: 400px;
+  height: 50px;
+  margin-top: -100px;
+}
+.orange-word {
+  color: orange;
+  font-size: 50px;
+}
+.half-width {
+  width: 40%;
+  float: left;
+  margin-left: 3%;
+  padding-left: 2%;
+}
+.half-width img {
+  width: 80%;
+}
+.top-section {
+  height: 400px;
+  margin-top: 100px;
+}
+.link-button {
+  text-decoration: none;
+  background-image: linear-gradient(
+    45deg,
+    rgb(122, 131, 255),
+    rgb(34, 133, 25)
+  );
+  padding: 10px 30px;
+  border-radius: 5px;
+  font-weight: 700;
+}
