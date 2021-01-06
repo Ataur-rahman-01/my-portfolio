@@ -42,3 +42,60 @@ body {
   border-radius: 5px;
   font-weight: 700;
 }
+.work {
+  clear: both;
+  text-align: center;
+  padding-top: 50px;
+  padding-bottom: 50px;
+}
+.work h2 {
+  font-size: 50px;
+}
+.images-section {
+  width: 25%;
+  float: left;
+  margin-left: 3%;
+  padding-left: 2%;
+  padding-bottom: 50px;
+  padding-top: 50px;
+}
+.images-section img {
+  width: 70%;
+}
+.box {
+  box-shadow: 10px 10px 8px 10px #888888;
+  margin-bottom: 100px;
+}
+.client {
+  width: 25%;
+  float: left;
+  margin-left: 3%;
+  padding-left: 2%;
+  padding-bottom: 100px;
+}
+.box1 {
+  box-shadow: 10px 10px 8px 10px #7d8ce2;
+  padding: 50px 50px;
+}
+.chat {
+  clear: both;
+  background-image: url(images/Group_33094_1.png);
+  height: 200px;
+  width: 50%;
+  background-repeat: no-repeat;
+  background-position: center;
+  background-size: contain;
+  margin-left: 300px;
+}
+.chat h2 {
+  padding: 70px 50px;
+}
+.up a {
+  float: right;
+  margin-top: -130px;
+  margin-right: 500px;
+}
+footer {
+  margin-top: 100px;
+  text-align: center;
+}
